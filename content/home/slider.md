@@ -23,16 +23,16 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/treetop-closed.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/treetop-closed.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  #cta_label = "Get Academic"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
 
 [[item]]
   title = "Hand-crafted wooden design"
@@ -40,7 +40,7 @@ height = "calc(100vh - 70px)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "/slider/wooden-hinge-back-left.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/slider/wooden-hinge-back-left.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,7 +49,7 @@ height = "calc(100vh - 70px)"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "/slider/wooden-hinge-back-right.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/slider/wooden-hinge-back-right.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -57,7 +57,7 @@ height = "calc(100vh - 70px)"
   content = "These holes are made precisely for a snug fit."
   align = "top"
   overlay_color = "#333"
-  overlay_img = "/slider/the-plugs.jpeg"
+  overlay_img = "/slider/the-plugs.jpg"
   overlay_filter = 0.5
 
 [[item]]
@@ -65,7 +65,7 @@ height = "calc(100vh - 70px)"
   content = "I have the official 7 inch Raspberry Pi display."
   align = "top"
   overlay_color = "#333"
-  overlay_img = "/slider/the-display.jpeg"
+  overlay_img = "/slider/the-display.jpg"
   overlay_filter = 0.5
 
 [[item]]
@@ -73,7 +73,7 @@ height = "calc(100vh - 70px)"
   content = "What's yours?"
   alighn = "top"
   overlay_color = "#333"
-  overlay_img = "/slider/the-hood.jpeg"
+  overlay_img = "/slider/the-hood.jpg"
   overlay_filter = 0.5
 
 [[item]]
@@ -81,7 +81,7 @@ height = "calc(100vh - 70px)"
   content = "below"
   align = "top"
   overlay_color = "#333"
-  overlay_img = "/slider/treetop-open.jpeg"
+  overlay_img = "/slider/treetop-open.jpg"
   overlay_filter = 0.5
 
 +++
