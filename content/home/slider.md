@@ -78,7 +78,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Contact me"
-  content = "on twitter @jacebenson"
+  #content = "on twitter @jacebenson"
   align = "top"
   overlay_color = "#333"
   overlay_img = "/slider/treetop-open.jpg"
