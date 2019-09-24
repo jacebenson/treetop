@@ -77,11 +77,15 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.5
 
 [[item]]
-  title = "Find out more"
-  content = "below"
+  title = "Contact me"
+  content = "on twitter @jacebenson"
   align = "top"
   overlay_color = "#333"
   overlay_img = "/slider/treetop-open.jpg"
   overlay_filter = 0.5
 
+  cta_label = "Message me on Twitter"
+  cta_url = "https://twitter.com/jacebenson"
+  cta_icon_pack = "fab"
+  cta_icon = "twitter"
 +++
